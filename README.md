@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pragatimehra21](https://github.com/pragatimehra21)
 
-- 💬 Ask me about **ML-DL, Python, C, C++, SQL**
+- 💬 Ask me about **ML-DL, Python, HTML, CSS, SQL**
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
