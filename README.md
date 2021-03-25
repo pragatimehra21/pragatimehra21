@@ -14,8 +14,6 @@
 
 - 📫 Reach me at: **pragatimehra21@gmail.com**
 
-- ⚡ Fun fact **Python over Java**
-
 ### Connect with me:
 
 [<img align="left" alt="Pragati Mehra | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/pragati-mehra-6b69a1190//)
