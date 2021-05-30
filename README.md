@@ -45,7 +45,4 @@ CSS          10 mins         ▓░░░░░░░░░░░░░░░░
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pragatimehra21&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragatimehra21&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
