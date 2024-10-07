@@ -6,18 +6,18 @@
 
 - 🌱 I’m currently learning DL, Computer Vision and Backend development.
 
-- 👨‍💻 All of my projects are available at [https://github.com/pragatimehra21](https://github.com/pragatimehra21)
+- 👨‍💻 All of my projects are available at [https://github.com/kpragati333](https://github.com/kpragati333)
 
 - 💬 Ask me about **ML-DL, Python, Java, Product Mangement,HTML, CSS, SQL**
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
-- 📫 Reach me at: **pragatimehra21@gmail.com**
+- 📫 Reach me at: **kapoorpragati333@gmail.com**
 
 ### Connect with me:
 
 [<img align="left" alt="Pragati Mehra | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/pragati-mehra-6b69a1190//)
-[<img align="left" alt="Pragati Mehra | Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:pragatimehra21@gmail.com)
+[<img align="left" alt="Pragati Mehra | Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:kapoorpragati333@gmail.com)
 <br/>
 
 📊 **This week I spent my time on**<br/>
