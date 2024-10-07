@@ -1,5 +1,5 @@
-<h1 align="center">Hey there!👋, I am Pragati Mehra.</h1>
-<h3 align="center">A Data Analyst.</h3>
+<h1 align="center">Hey there!👋, I am Pragati.</h1>
+<h3 align="center">A Senior Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatimehra21" alt="pragatimehra" /> </p>
 
 - 🔭 I’m currently working on [CovidPredictionLung_FlaskApp](https://github.com/pragatimehra21/CovidPredictionLung_FlaskApp)
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pragatimehra21](https://github.com/pragatimehra21)
 
-- 💬 Ask me about **ML-DL, Python, HTML, CSS, SQL**
+- 💬 Ask me about **ML-DL, Python, Java, Product Mangement,HTML, CSS, SQL**
 
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
